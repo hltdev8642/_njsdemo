@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hltdev8642/njsdemo#readme",
   "devDependencies": {
+    "html2canvas": "^1.0.0-alpha.12",
     "webpack": "^4.16.5"
   }
 }
